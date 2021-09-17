@@ -1,3 +1,5 @@
+# CREDITS TO AMA6NEN ORIGINAL REPO: https://github.com/ama6nen/savedecrypter
+
 # Growtopia save.dat decryptor that always gets correct save.dat password.
 
 ## Features
